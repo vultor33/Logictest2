@@ -1,4 +1,4 @@
-Logic The purpose of this task is to test my capabilities in developing algorithms to manipulate / convert the format of a dataset.
+The purpose of this task is to test my capabilities in developing algorithms to manipulate / convert the format of a dataset.
 
 To run the code just type: [pandas library is needed]
 
